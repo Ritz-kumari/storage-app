@@ -1,2 +1,3 @@
 # storage-app
-An app to store your documents.
+
+A simple, secure application for storing, organizing, and accessing your documents in one place.
